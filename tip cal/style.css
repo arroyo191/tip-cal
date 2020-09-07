@@ -1,0 +1,22 @@
+
+body {
+    margin-top: 100px;
+    text-align: center;
+    margin: 100px auto 0 auto ;
+    font-size: 1.5em;
+    max-width: 400px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: black;
+    
+}
+
+
+
+#container {
+    display: flex;
+    flex-direction: column;
+}
